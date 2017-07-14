@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RankingTenis</string>
+    <string name="male">Masculino</string>
+    <string name="password">Contraseña</string>
+    <string name="title_activity_login">Iniciar Sesión</string>
+    <string name="user">Usuario</string>
+    <string name="female">Femenino</string>
+    <string name="login"></string>
+    <string name="refresh">Refrescar</string>
+    <string name="settings">Configuración</string>
+</resources>
